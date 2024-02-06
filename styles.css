@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: skyblue;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.complex{
+    height: 600px;
+    display: flex;
+
+}
+
+.left{
+    background-color: brown;
+    width: 25%;
+    text-align: center;
+
+}
+.center{
+    background-color: cornflowerblue;
+    width: 50%;
+    text-align: center;
+
+}
+.top{
+    background-color: burlywood;
+    height: 25%;
+}
+
+.middle{
+    background-color: darkolivegreen;
+    height: 50%;
+}
+.bottom{
+    background-color: burlywood;
+    height: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.right{
+    background-color: fuchsia;
+    width: 25%;
+    text-align: center;
+
+}
+
+.footer{
+    background-color: green;
+    height: 100px;
+    text-align: center;
+}
